@@ -1,6 +1,6 @@
-# **STAR WARS DEPLOYMENT**
+# **STAR WARS Deployment to Heroku**
 
-[STAR WARS DEPLOYMENT](https://infinite-wave-48204.herokuapp.com/)
+[STAR WARS Deployment](https://infinite-wave-48204.herokuapp.com/)
 
 
 
